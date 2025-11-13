@@ -1,0 +1,16 @@
+Data Cleaning Summary
+========================
+Dataset: Netflix Dataset
+Original Rows: 16000
+Cleaned Rows: 16000
+Total Columns: 19
+Duplicates Removed: 0
+
+✅ Changes Performed:
+- Standardized column names
+- Filled missing values ('Unknown' / median)
+- Fixed date format (dd-mm-yyyy)
+- Converted data types
+- Removed duplicates
+- Added 'profit' column
+- Cleaned text formatting
